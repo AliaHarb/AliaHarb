@@ -26,22 +26,12 @@ Passionate about Clean Architecture, RESTful APIs and Software Engineering.
 Computer Science student specializing in Backend Development with the .NET ecosystem. Passionate about building scalable applications and continuously learning software architecture and modern backend technologies.
 
 ---
-
 ## Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,cpp,python,html,css,js,bootstrap,postman,docker,linux,figma,firebase,flutter"/>
-
-<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="48" title="SQL Server"/>
-
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,cpp,python,html,css,js,bootstrap,postman,linux,firebase,flutter" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="48" title="SQL Server"/>
 </p>
-
-**Backend**  
-ASP.NET Core • ASP.NET MVC • Entity Framework Core • LINQ • REST APIs • JWT Authentication
-
-**Architecture**  
-Clean Architecture • SOLID • Repository Pattern • Unit of Work • Dependency Injection
 
 ---
 
