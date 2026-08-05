@@ -29,9 +29,8 @@ Computer Science student specializing in Backend Development with the .NET ecosy
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,cpp,python,html,css,js,bootstrap,postman,linux,firebase,flutter" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,cpp,python,html,css,js,bootstrap,postman,firebase,flutter" />
 </p>
----
 
 ## GitHub Streak
 
