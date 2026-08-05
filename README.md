@@ -1,22 +1,25 @@
 <h1 align="center">Alia Harb</h1>
 
 <p align="center">
-  <strong>Backend Developer • ASP.NET Core • Software Engineer</strong>
+  <strong>.NET Backend Developer</strong>
 </p>
 
 <p align="center">
 Building scalable backend applications with ASP.NET Core and C#.<br>
-Passionate about clean architecture, RESTful APIs, and maintainable software.
+Passionate about Clean Architecture, RESTful APIs, and maintainable software.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alia-harb-ba660133b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:aliaharb940@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AliaHarb&style=for-the-badge" />
 </p>
 
 ---
@@ -25,18 +28,7 @@ Passionate about clean architecture, RESTful APIs, and maintainable software.
 
 Computer Science student passionate about Backend Development and Software Engineering.
 
-I enjoy building scalable backend applications using the .NET ecosystem while continuously expanding my knowledge of software architecture, databases, and distributed systems.
-
----
-
-## Currently Learning
-
-- ASP.NET Core
-- Clean Architecture
-- System Design
-- Docker
-- Microservices
-- Azure
+I enjoy building scalable backend systems using the .NET ecosystem while continuously improving my knowledge of software architecture, databases, cloud technologies, and distributed systems.
 
 ---
 
@@ -44,49 +36,61 @@ I enjoy building scalable backend applications using the .NET ecosystem while co
 
 ### Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=cs,cpp,python,html,css,js" />
 </p>
 
 ### Backend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=dotnet" />
 </p>
 
-ASP.NET Core • ASP.NET MVC • Entity Framework Core • LINQ • REST APIs • JWT Authentication  • SQL Server
+ASP.NET Core • ASP.NET MVC • Entity Framework Core • LINQ • REST APIs • JWT Authentication • SQL Server
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,linux,docker" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,linux" />
 </p>
+---
 
-### Software Engineering
+## GitHub Statistics
 
-- Clean Architecture
-- SOLID Principles
-- Repository Pattern
-- Unit of Work
-- Dependency Injection
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AliaHarb&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliaHarb&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
-## Current Focus
+## GitHub Streak
 
-- Building scalable backend applications
-- Advanced ASP.NET Core
-- Software Architecture
-- System Design
-- Docker
-- Microservices
-- Azure Fundamentals
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AliaHarb&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliaHarb&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AliaHarb&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
 ## Connect
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/alia-harb-ba660133b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -99,5 +103,6 @@ ASP.NET Core • ASP.NET MVC • Entity Framework Core • LINQ • REST APIs �
 ---
 
 <p align="center">
-  <i>Trust The Process</i>
+<i>"First, solve the problem. Then, write the code."</i><br>
+— John Johnson
 </p>
