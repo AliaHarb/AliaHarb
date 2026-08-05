@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-Building scalable backend applications with ASP.NET Core and C#.<br>
-Passionate about Clean Architecture, RESTful APIs, and maintainable software.
+Building scalable backend applications with ASP.NET Core and C#.<br/>
+Passionate about Clean Architecture, RESTful APIs and Software Engineering.
 </p>
 
 <p align="center">
@@ -14,60 +14,41 @@ Passionate about Clean Architecture, RESTful APIs, and maintainable software.
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:aliaharb940@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AliaHarb&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=AliaHarb&style=for-the-badge"/>
 </p>
 
 ---
 
 ## About
 
-Computer Science student passionate about Backend Development and Software Engineering.
-
-I enjoy building scalable backend systems using the .NET ecosystem while continuously improving my knowledge of software architecture, databases, cloud technologies, and distributed systems.
+Computer Science student specializing in Backend Development with the .NET ecosystem. Passionate about building scalable applications and continuously learning software architecture and modern backend technologies.
 
 ---
 
 ## Tech Stack
 
-### Languages
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,cpp,python,html,css,js" />
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,cpp,python,html,css,js,bootstrap,postman,docker,linux,figma,firebase,flutter"/>
+
+<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="48" title="SQL Server"/>
+
 </p>
 
-### Backend
+**Backend**  
+ASP.NET Core • ASP.NET MVC • Entity Framework Core • LINQ • REST APIs • JWT Authentication
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=dotnet" />
-</p>
-
-ASP.NET Core • ASP.NET MVC • Entity Framework Core • LINQ • REST APIs • JWT Authentication • SQL Server
-
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,linux" />
-</p>
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AliaHarb&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliaHarb&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+**Architecture**  
+Clean Architecture • SOLID • Repository Pattern • Unit of Work • Dependency Injection
 
 ---
 
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AliaHarb&theme=github-dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=AliaHarb&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
@@ -75,15 +56,7 @@ ASP.NET Core • ASP.NET MVC • Entity Framework Core • LINQ • REST APIs �
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliaHarb&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AliaHarb&theme=darkhub&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AliaHarb&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -94,7 +67,6 @@ ASP.NET Core • ASP.NET MVC • Entity Framework Core • LINQ • REST APIs �
   <a href="https://www.linkedin.com/in/alia-harb-ba660133b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:aliaharb940@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -103,6 +75,5 @@ ASP.NET Core • ASP.NET MVC • Entity Framework Core • LINQ • REST APIs �
 ---
 
 <p align="center">
-<i>"First, solve the problem. Then, write the code."</i><br>
-— John Johnson
+<i>"The flap of a butterfly's wings today can shape the storms of tomorrow."</i>
 </p>
