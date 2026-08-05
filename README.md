@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Banner" width="100%" />
-</p>
-
 <h1 align="center">Alia Harb</h1>
 
 <p align="center">
@@ -10,38 +6,46 @@
 
 <p align="center">
 Building scalable backend applications with ASP.NET Core and C#.<br>
-Focused on Clean Architecture, RESTful APIs, and database-driven systems.
+Passionate about clean architecture, RESTful APIs, and maintainable software.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alia-harb-ba660133b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:aliaharb940@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AliaHarb&style=for-the-badge"/>
-</p>
-
 ---
 
-# About
+## About
 
 Computer Science student passionate about Backend Development and Software Engineering.
 
-I enjoy building scalable backend systems using the .NET ecosystem while continuously improving my knowledge of software architecture, databases, cloud technologies, and distributed systems.
+I enjoy building scalable backend applications using the .NET ecosystem while continuously expanding my knowledge of software architecture, databases, and distributed systems.
 
 ---
 
-# Tech Stack
+## Currently Learning
+
+- ASP.NET Core
+- Clean Architecture
+- System Design
+- Docker
+- Microservices
+- Azure
+
+---
+
+## Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,cpp,python,html,css,js" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,python,html,css,js,SQL Server" />
 </p>
 
 ### Backend
@@ -50,23 +54,15 @@ I enjoy building scalable backend systems using the .NET ecosystem while continu
 <img src="https://skillicons.dev/icons?i=dotnet" />
 </p>
 
-ASP.NET Core • ASP.NET MVC • Entity Framework Core • LINQ • REST APIs • JWT Authentication
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-SQL Server • MySQL • SQLite
+ASP.NET Core • ASP.NET MVC • Entity Framework Core • LINQ • REST APIs • JWT Authentication 
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,linux,figma,firebase,flutter,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,linux,docker" />
 </p>
 
-### Architecture
+### Software Engineering
 
 - Clean Architecture
 - SOLID Principles
@@ -76,44 +72,11 @@ SQL Server • MySQL • SQLite
 
 ---
 
-# GitHub Statistics
+## Current Focus
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AliaHarb&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliaHarb&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
-# GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AliaHarb&theme=transparent&hide_border=true" />
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AliaHarb&theme=flat&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-# Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliaHarb&theme=github-compact&hide_border=true" />
-</p>
-
----
-
-# Current Focus
-
-- ASP.NET Core
-- Clean Architecture
-- Design Patterns
+- Building scalable backend applications
+- Advanced ASP.NET Core
+- Software Architecture
 - System Design
 - Docker
 - Microservices
@@ -121,20 +84,20 @@ SQL Server • MySQL • SQLite
 
 ---
 
-# Connect
+## Connect
 
 <p>
-<a href="https://www.linkedin.com/in/alia-harb-ba660133b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/alia-harb-ba660133b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="mailto:aliaharb940@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:aliaharb940@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-Trust The Process
+  <i>Trust The Process</i>
 </p>
