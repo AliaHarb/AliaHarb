@@ -1,124 +1,119 @@
+<p align="center">
+  <img src="banner.png" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Alia Harb</h1>
 
 <p align="center">
-Backend Developer • ASP.NET Core • Software Engineer
+  <strong>Backend Developer • ASP.NET Core • Software Engineer</strong>
 </p>
 
 <p align="center">
-I build scalable backend applications using ASP.NET Core and C#.
-Focused on clean architecture, RESTful APIs, database-driven systems, and maintainable software.
+Building scalable backend applications with ASP.NET Core and C#.<br>
+Focused on Clean Architecture, RESTful APIs, and database-driven systems.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alia-harb-ba660133b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:aliaharb940@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AliaHarb&style=for-the-badge"/>
 </p>
 
 ---
 
-## About
+# About
 
 Computer Science student passionate about Backend Development and Software Engineering.
 
-My primary focus is building scalable backend applications using the .NET ecosystem while continuously improving my knowledge of software architecture, databases, system design, and cloud technologies.
+I enjoy building scalable backend systems using the .NET ecosystem while continuously improving my knowledge of software architecture, databases, cloud technologies, and distributed systems.
 
-Currently learning:
+---
+
+# Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,cpp,python,html,css,js" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet" />
+</p>
+
+ASP.NET Core • ASP.NET MVC • Entity Framework Core • LINQ • REST APIs • JWT Authentication
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+SQL Server • MySQL • SQLite
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,linux,figma,firebase,flutter,docker" />
+</p>
+
+### Architecture
+
+- Clean Architecture
+- SOLID Principles
+- Repository Pattern
+- Unit of Work
+- Dependency Injection
+
+---
+
+# GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AliaHarb&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliaHarb&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+# GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AliaHarb&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AliaHarb&theme=flat&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+# Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliaHarb&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+# Current Focus
 
 - ASP.NET Core
 - Clean Architecture
-- System Design
-- Docker
-- Microservices
-- Azure
-
----
-
-## Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,cpp,python,html,css,js,bootstrap,mysql,sqlite,postgres,firebase,flutter,postman,linux,vscode" />
-</p>
-
-**Backend**
-
-`ASP.NET Core` • `ASP.NET MVC` • `REST APIs` • `Entity Framework Core` • `LINQ`
-
-**Database**
-
-`SQL Server` • `MySQL` • `SQLite`
-
-**Architecture**
-
-`Clean Architecture` • `Repository Pattern` • `Unit of Work` • `Dependency Injection`
-
----
-
-## GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent"/>
-
-</p>
-
----
-
-## GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent"/>
-
-</p>
-
----
-
-## Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
-
-</p>
-
----
-
-## Featured Projects
-
-### DiaCare
-
-AI-powered diabetes support platform.
-
-- ASP.NET Core
-- Entity Framework Core
-- SQL Server
-- Clean Architecture
-- JWT Authentication
-
-### Zomra
-
-Predictive blood supply management system.
-
-- ASP.NET Core
-- AI Integration
-- SQL Server
-
-### Stockio
-
-Smart inventory management platform.
-
-- ASP.NET Core MVC
-- SQL Server
-
-### Bookify
-
-Hotel reservation management system.
-
-- ASP.NET MVC
-- Entity Framework Core
-
----
-
-## Currently Working On
-
-- Advanced ASP.NET Core
+- Design Patterns
 - System Design
 - Docker
 - Microservices
@@ -126,20 +121,20 @@ Hotel reservation management system.
 
 ---
 
-## Connect
+# Connect
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/alia-harb-ba660133b/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p>
+<a href="https://www.linkedin.com/in/alia-harb-ba660133b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:aliaharb940@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-> Trust The Process
+<p align="center">
+Trust The Process
+</p>
