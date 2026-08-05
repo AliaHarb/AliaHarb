@@ -45,7 +45,7 @@ I enjoy building scalable backend applications using the .NET ecosystem while co
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,cpp,python,html,css,js,SQL Server" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,python,html,css,js" />
 </p>
 
 ### Backend
@@ -54,7 +54,7 @@ I enjoy building scalable backend applications using the .NET ecosystem while co
 <img src="https://skillicons.dev/icons?i=dotnet" />
 </p>
 
-ASP.NET Core • ASP.NET MVC • Entity Framework Core • LINQ • REST APIs • JWT Authentication 
+ASP.NET Core • ASP.NET MVC • Entity Framework Core • LINQ • REST APIs • JWT Authentication  • SQL Server
 
 ### Tools
 
